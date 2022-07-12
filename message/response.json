@@ -1,12 +1,12 @@
 { 
-   "success": "Berhasil",
-   "admin": "Fitur Khusus Admin Group!",
-   "botAdmin": "Bot Harus Menjadi Admin Terlebih Dahulu!",
-   "owner": "Fitur Khusus Owner Bot",
-   "group": "Fitur Digunakan Hanya Untuk Group!",
-   "private": "Fitur Digunakan Hanya Untuk Private Chat!",
-   "bot": "Fitur Khusus Pengguna Nomor Bot",
-   "wait": "Tunggu sebentar, sedang di proses",
+   "success": "Done Brother",
+   "admin": "Fitur Hanya Admin Group!",
+   "botAdmin": "Bot Wajib Menjadi Admin Terlebih Dahulu!",
+   "owner": "Fitur hanya Owner Bot",
+   "group": "Fitur Wajib Digunakan Hanya Di Group!",
+   "private": "Fitur Wajib Digunakan Hanya Di Private Chat!",
+   "bot": "Fitur hanya Pengguna Nomor Bot",
+   "wait": "Tunggu sebentar, sedang di proses...",
    "premier": "Fitur Ini Khusus User Premium\nMau Jadi User Premium Chat Owner",
    "endLimit": "Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12"
 }
