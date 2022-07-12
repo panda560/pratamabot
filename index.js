@@ -1,4 +1,4 @@
-// Created By Lexxy Official
+// Created By Pratama Official
 // Base Ori Dika Ardnt
 
 require('./lib/neobotx')
